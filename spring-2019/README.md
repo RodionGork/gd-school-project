@@ -1,6 +1,6 @@
 ### Список материалов...
 
-**[...которые обсуждали на разборе домашнего задания](https://github.com/RodionGork/gd-school-project/blob/master/spring-2019/useful.md)**
+**[которые обсуждали на разборе домашнего задания](https://github.com/RodionGork/gd-school-project/blob/master/spring-2019/useful.md)**
 
 ---
 
